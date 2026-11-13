@@ -1,4 +1,6 @@
 (()=>{'use strict';
+// Refresh Cloudflare Pages deployment.
+
 const SELECTOR='.bwg-thumbnails a.bwg_lightbox[href], .bwg-thumbnails a.bwg-a[href]';
 const containers=[...document.querySelectorAll('.bwg-thumbnails')];if(!containers.length)return;
 const style=document.createElement('style');style.textContent=`

@@ -1,0 +1,2195 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Prosplum - Plumbing Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab - Location - Section",
+            "screenshot": "screenshots\/tab-location-section.jpg",
+            "source": "templates\/tab-location-section.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/tab-location-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-map",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact \u2013 Section \u2013 Metform",
+            "screenshot": "screenshots\/contact-section-metform.jpg",
+            "source": "templates\/contact-section-metform.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/contact-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking \u2013 Section \u2013 Metform",
+            "screenshot": "screenshots\/booking-section-metform.jpg",
+            "source": "templates\/booking-section-metform.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/booking-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/prosplum.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.11.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.13",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Table Addons for Elementor",
+            "version": "1.2.0",
+            "file": "table-addons-for-elementor\/table-addons-for-elementor.php",
+            "author": "Iqbal Bary"
+        }
+    ],
+    "images": [
+        {
+            "filename": "iconn0017.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0017-800x38.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6110,
+            "dimensions": [
+                1920,
+                91
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0053.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0053-800x70.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3574,
+            "dimensions": [
+                1026,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0054.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0054.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3150,
+            "dimensions": [
+                768,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0052.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0052.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2030,
+            "dimensions": [
+                347,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-002.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Logo-002-800x178.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 22976,
+            "dimensions": [
+                1065,
+                237
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0026.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0026-800x45.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3184,
+            "dimensions": [
+                1533,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0044.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0044.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 2639,
+            "dimensions": [
+                428,
+                116
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prosplumjpg018.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg018-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 77223,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn010.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn010-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 158841,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Heros-02.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Heros-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 279177,
+            "dimensions": [
+                800,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn09.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn09-800x140.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 4191,
+            "dimensions": [
+                950,
+                166
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0055.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0055.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2612,
+            "dimensions": [
+                448,
+                116
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0056.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0056.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 28126,
+            "dimensions": [
+                489,
+                489
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0057.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0057.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 25897,
+            "dimensions": [
+                490,
+                489
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0030.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0030.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 5069,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0031.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0031.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 5690,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0036.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0036.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 5290,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0034.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0034.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 6390,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0035.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0035.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 6036,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0039.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0039.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4771,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0037.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0037.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4254,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0033.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0033.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 7051,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0021.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0021-800x44.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3310,
+            "dimensions": [
+                1542,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prosplumjpg010.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg010-800x685.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 88652,
+            "dimensions": [
+                1169,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg011.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg011-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 100488,
+            "dimensions": [
+                1281,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg012.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg012-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 98041,
+            "dimensions": [
+                1281,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg013.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg013-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 139715,
+            "dimensions": [
+                1281,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg014.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg014-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 112031,
+            "dimensions": [
+                1281,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg015.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg015-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 105537,
+            "dimensions": [
+                1281,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg016.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg016-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 129499,
+            "dimensions": [
+                1281,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0022.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0022-800x44.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3456,
+            "dimensions": [
+                1550,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0049.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0049.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2199,
+            "dimensions": [
+                341,
+                116
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconn0047.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0047.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2345,
+            "dimensions": [
+                428,
+                116
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prosplumjpg020.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg020-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 99922,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg022.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg022-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 86237,
+            "dimensions": [
+                1600,
+                1068
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team01.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team01-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 56884,
+            "dimensions": [
+                1041,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team04.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team04-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 57087,
+            "dimensions": [
+                1041,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team02.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team02-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 70538,
+            "dimensions": [
+                1041,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team03.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team03-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 57493,
+            "dimensions": [
+                1041,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team05.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team05-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 63406,
+            "dimensions": [
+                1041,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0059.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0059.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 41831,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prosplumjpg01.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 163249,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0016.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0016.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 28528,
+            "dimensions": [
+                498,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Heros-01.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Heros-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 321576,
+            "dimensions": [
+                713,
+                1092
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg02.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 50179,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg04.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 38735,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg03.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 29288,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg05.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 34370,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg06.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 35370,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg09.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 39231,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg07.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 30322,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg08.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 39018,
+            "dimensions": [
+                667,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0020.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0020.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 278562,
+            "dimensions": [
+                750,
+                942
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg021.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg021-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 108222,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0032.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0032.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9804,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0040.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0040.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6718,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0038.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0038.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6134,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0060.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0060.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5070,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0061.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0061.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7839,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0062.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0062.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13025,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0063.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0063.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5619,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "iconn0064.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/iconn0064.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3531,
+            "dimensions": [
+                709,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Blog05.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Blog05-800x694.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 70117,
+            "dimensions": [
+                1230,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Blog03.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Blog03-800x694.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 127925,
+            "dimensions": [
+                1230,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "prosplumjpg017.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/prosplumjpg017-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 114031,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Background-07.png",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Background-07-800x564.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 149409,
+            "dimensions": [
+                816,
+                575
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Team-01.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 151863,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-02.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 144858,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-03.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 133575,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-04.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 135377,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-05.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 131986,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-07.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 128112,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-06.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 130939,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Team-08.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Team-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 126392,
+            "dimensions": [
+                466,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Blog01.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Blog01-800x694.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 82975,
+            "dimensions": [
+                1230,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        },
+        {
+            "filename": "Blog02.jpg",
+            "thumbnail_url": "https:\/\/prosplum.1onestrong.com\/wp-content\/uploads\/2023\/01\/Blog02-800x694.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 132876,
+            "dimensions": [
+                1230,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/PYGSXFHJV7"
+        }
+    ]
+}

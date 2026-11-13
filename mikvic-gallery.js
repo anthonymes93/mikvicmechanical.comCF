@@ -1,5 +1,5 @@
 (()=>{'use strict';
-// Refresh Cloudflare Pages deployment.
+// Refresh Cloudflare Pages deployment (gallery update).
 
 const SELECTOR='.bwg-thumbnails a.bwg_lightbox[href], .bwg-thumbnails a.bwg-a[href]';
 const containers=[...document.querySelectorAll('.bwg-thumbnails')];if(!containers.length)return;
